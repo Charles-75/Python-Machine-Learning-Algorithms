@@ -6,4 +6,5 @@ I used the following data science libraries :
 * Numpy  
 * Pandas  
 * Matplotlib
-* Scikit-Learn
+* Scikit-Learn  
+* Scipy
