@@ -8,3 +8,4 @@ I used the following data science libraries :
 * Matplotlib
 * Scikit-Learn  
 * Scipy
+* Keras (2.2.4)
