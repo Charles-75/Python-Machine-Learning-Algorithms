@@ -2,7 +2,7 @@
 
 Machine learning algorithms implemented in Python and tested on various business use cases. 
 
-I used the following data science libraries :  
+I used the following python libraries :  
 * Numpy  
 * Pandas  
 * Matplotlib
