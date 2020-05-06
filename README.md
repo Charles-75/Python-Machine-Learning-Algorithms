@@ -1,4 +1,4 @@
-# Python-Machine-Learning-State-Of-The-Art
+# Python-Machine-Learning-Algorithms
 
 Machine learning algorithms implemented in Python and tested on various business use cases. 
 
